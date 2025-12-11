@@ -1,4 +1,4 @@
-# StudyBalance-vebapp
+# StudyBalance-webapp
 веб-приложение "StudyBalance". ИВР лицеиста НИУ ВШЭ с направления матинфо
 
 
